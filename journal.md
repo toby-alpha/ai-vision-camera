@@ -43,4 +43,30 @@ The case will be made from 2 pieces of billet aluminium, serving as a heatsink, 
 *Radxa CM5 module*
 
 ### Time Spent 3 Hours (10/07/25)
+
+## Day 2 - Starting on the Schematic
+
+Today, I started off with the schematic. I'll be using just a regular USB-C port to provide both power, and allow for data interaction with the finished product.
+
+![image](https://i.ibb.co/S4GwtbDm/image.png)
+
+As is required, there will be a speaker which is able to convert the text to an audio output. I was largely able to base this schematic off the Adafruit example breakout board. Yet, I'm still investigating how the I2S works with the Radxa module.
+
+![image](https://i.ibb.co/zhfdCtGd/image.png)
+
+And the camera... this took a while. It took ages to find the correct cable, and connector to use, and I eventually settled on this. Radxa's documentation wasn't too clear, so I've reached out to them via email, and hopefully I'll hear back from them tomorrow.
+
+![image](https://i.ibb.co/rXjFRL0/image.png)
+
+In the mean time, I created the motor driver circuit, using a simple MOSFET to drive the small vibration motor. This was luckily quite a bit.. simpler.
+
+![image](https://i.ibb.co/XkWpNxHt/image.png) 
  
+![image](https://i.ibb.co/Q1YQY3V/image.png)
+
+I'm pleased with how things are going so far, and I've set the goal to finish this within the next 5 days, to ensure everything can be built in time for the end of Highway!
+
+### Time Spent 6 Hours (11/07/25)
+
+
+
