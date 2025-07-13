@@ -68,5 +68,32 @@ I'm pleased with how things are going so far, and I've set the goal to finish th
 
 ### Time Spent 6 Hours (11/07/25)
 
+## Day 3 - Schematic 2
 
+I heard back from Radxa, and they encouraged me to use this connector, a 15-pin one to align better with their IO board, offering greater support. 
+
+![image](https://i.ibb.co/pvT0BLYs/image.png) 
+
+![image](https://i.ibb.co/spHf5nb6/image.png)
+
+This is how far I got with the schematic, and have everything mapped out. I just need to add in the passive components (resistors and capacitors) tomorrow, as well as the reset to the GPIO.
+
+I also looked into additional sensors I'd need to add to the device, and how I could fully harness the power of the CM5.
+
+To aid with this, I printed out all of schematics from the IO board, and went through annotating what else I could add. I also was confirming the placement of USB-C data lines into the CM5, as well as how I'll be placing other signals such as I2S and I2C into the correct place.. amoung the 300 available.
+
+I also spent time fixing up the I2S, and GPIO pins for the camera going into the CM5 module.
+
+![image](https://i.ibb.co/Bxm5cbB/image.png)
+
+I also revised the power for the camera connector. As advised by Radxa, I added a Ferrite bead to smooth out the voltage supply frequencies. I also corrected the i2C pullup resistors.
+ ![image](https://i.ibb.co/Kxdd132C/image.png)
+
+I also added the passive components for the WS2812B Ring that will go around the camera. This will be connected through pin headers to provide an almost "3D" feel to the PCB. To keep costs low, I'm trying to keep all passive components on the main PCB, so I could hand assemble the ring board.
+
+![image](https://i.ibb.co/0RPz7Cdg/image.png)
+
+I'm pleased with how the schematic is going, and will do a final review tomorrow morning, before then moving onto the routing of the board.
+
+### Time Spent 7 Hours (12-13/07/25)
 
