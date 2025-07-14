@@ -97,3 +97,70 @@ I'm pleased with how the schematic is going, and will do a final review tomorrow
 
 ### Time Spent 7 Hours (12-13/07/25)
 
+## Day 3 - Starting the Layout
+
+![image](https://i.ibb.co/8ZBnFkF/image.png)
+
+I finished the schematic, other than fully connecting the CM5 module to ground.
+
+![image](https://i.ibb.co/7xQfdWM8/image.png)
+
+My PCB is going to follow the outline of the CM5 board pretty much 1:1. The case will then be expanded to allow for space inside for thing such as speaker and motor wires.
+
+![](https://i.ibb.co/kgnwWDZs/image.png)
+
+One problem that I encountered was the interference between where I want to put the cable for the camera, and the header pins for the WS2812B Halo.
+
+![image](https://i.ibb.co/MknFqDr7/image.png)
+
+Changing connector allows for vertical insertion of the cable, thus solving this problem.
+
+At this point [insert image], I'm pretty happy with the routing. I'm now going to give the WS2812B Halo PCB a go.
+
+Firstly, I had to expand the carrier board. This is unproblematic in a general form factor sense though. The mounting holes will remain the same, to match up with the CM5 module, which then with a small spacer, will be able to mechanically clamp the whole assembly down, ensuring reliability.
+
+It had to be expanded due to the fact the 32mm rectangle camera had to fit inside the ring. Thus, I made the ID 16.5 so the camera could somewhat fit through.. this would make assembly much easier. 
+
+![image](https://i.ibb.co/n51qCCz/image.png)
+
+I did a simple schematic for this, only needing one component as it's then patterned.
+
+![image](https://i.ibb.co/G3xxc8Yb/image.png)
+
+I patternted 10 LEDs per ring, and then used the top layer for the DIN and GND signal.
+
+![image](https://i.ibb.co/STnVztN/image.png)
+
+I then use the bottom for the 5V line, as well as some ground jumps.
+
+![image](https://i.ibb.co/x8qt1wyJ/image.png)
+
+Overall coming out to be like this, with each LED having it's own capacitor.
+
+![image](https://i.ibb.co/Lz248hgp/image.png)
+
+I also added solder pads incase anything went too wrong.. *oh what foreshadowing this was*
+
+![image](https://i.ibb.co/GQHWDxnQ/image.png)
+
+This is then what it looks like assembled onto the board.
+
+![image](https://i.ibb.co/h18G4Jrb/image.png)
+
+and.. yeah, something did go wrong. so, I did the dimensions wrong previously, and the camera wouldn't have even fit through. The camera will be secured onto the top casing using M2 bolts into tapped holes, then this module needs to "slot" over the top of that. Below are the dimensions required, only allowing me to support the PCB on one side, with the USB-C being a big obstruction.
+
+To counter this, I'm going to be bolting the LED ring onto the top casing, just to prevent any misalignment. It'll then be soldered onto the carrier board.
+
+![image](https://i.ibb.co/s9FMhx4s/image.png)
+
+So I made the simple transition to the solder pads on the board. Hopefully this will reduce the chance for potential errors!
+
+![image](https://i.ibb.co/1VPMjNM/image.png)
+
+The board kinda looks empty now though, which is sad.
+
+![image](https://i.ibb.co/BV0H2SWW/image.png)
+
+Here is where the final layout came to. I'll do all the routing tomorrow, then hopefully move onto the case. I'm still a bit undecided on how to make the board feel less empty.. but I'll see.
+
+### Time Spent - 6 Hours (14/07/25)
