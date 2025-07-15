@@ -164,3 +164,71 @@ The board kinda looks empty now though, which is sad.
 Here is where the final layout came to. I'll do all the routing tomorrow, then hopefully move onto the case. I'm still a bit undecided on how to make the board feel less empty.. but I'll see.
 
 ### Time Spent - 6 Hours (14/07/25)
+
+## Day 4 - Routing
+
+I started off with a general outline for what the routing would need to be.. but forgot to take screenshots as I was going..
+
+All the USB-C and Data are routed differentially.
+
+![image](https://i.ibb.co/FkP7Rwkz/image.png)
+
+Once I finished the routing, I was pretty happy with how it looked, so I moved onto doing the button attachment. I thought of creating a slot in the main PCB, that then a seperate one with buttons on it can be soldered to. 
+
+![image](https://i.ibb.co/1t7XG9bh/image.png)
+
+The overall footprint was slightly expanded to allow the slot, which is the integrated with fillets, and dog-boned corners to allow for the manufacturing of the slot.
+
+![image](https://i.ibb.co/LDVyq5PM/image.png)
+
+The board is then both mechanically and electrically connected through the pads on the back, which are soldered onto the main board. There are extra to provide a stronger connection.
+
+![image](https://i.ibb.co/hRBxdVz1/image.png)
+
+3 buttons are then placed ontop for stability. It does not matter which are pressed, they all perform the same function.
+
+![image](https://i.ibb.co/9m9R9Trc/image.png)
+
+![image](https://i.ibb.co/qYg0TrBB/image.png)
+
+In the case, there will be a larger button encasing all the black plastic parts. Here are some renders of a pretty finished PCB.
+
+![image](https://i.ibb.co/93NqBw0w/image.png)
+
+I put that PCB into the CAD, and unfortunately it was looking a bit too small for my needs, as I want it to be like 80mm in total. I also need the buttons in the centre. To fix this, I will slightly extend the board outline on the side opposite the USB-C.
+
+![image](https://i.ibb.co/3mMh4J5g/image.png)
+
+Unfortunately, the USB-C will now not fit, so I'll make it so that the buttons are biased towards one side, to the PCB doesn't actually need to be in the centre.
+
+Unfortunately, the USB-C also didn't stick out far enough, but this was a pretty simple fix.
+
+With the housing, it'll be machined from 6061 Aluminium, then anodised, but keeping the silver colour.
+
+I offset the camera from the middle to just add a bit more visual interest to it, and tbh it just looked SUPER strange having it in the middle.
+
+![image](https://i.ibb.co/HTgLdCpY/image.png)
+
+On the rear side, there is a small heatsink on the outside, which will be nicely filleted and chamfered to both create a tactile feature, but also increase the surface area, allowing for heat to dissipate in a more efficient manner.
+
+![image](https://i.ibb.co/QvGBdDkp/image.png)
+
+At this point, the thickness is 19mm in total, and I think that's a really good thing, bringing down the form factor.
+
+![image](https://i.ibb.co/9JHyzcF/image.png)
+
+This unfortunately bought the issue of the camera not fitting... no matter what.
+
+![image](https://i.ibb.co/9JHyzcF/image.png)
+
+To fix this, I had to add roughly 9mm to the top of the housing, which increased the footprint, but hey.. at least the camera can fit now.
+
+![image](https://i.ibb.co/JwBH50DN/image.png)
+
+At the front, there is also the cutouts for the LED ring. I ended up changing this from the full ring, to just 2 segments to allow for a bit more structural integrity in the front.
+
+This also pretty well showcases the button, unfortunately due to the current method of mounting to the PCB, it's unable to be in the centre. Tomorrow, I'll decide if I want it in the centre, and then how this could be achieved. Now that the device has become thicker, it's probably also a bit too thin, so I'll have to adjust that.
+
+I'm pretty happy with how things are going so far, so tomorrow it'll just be finalising everything and hopefully shipping this device!!
+
+### Time Spent - 8 Hours (15/07/25)
