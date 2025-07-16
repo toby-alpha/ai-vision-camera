@@ -261,6 +261,8 @@ Here are some final photos
 
 I'm very pleased with how the housing turned out.
 
+I also shortened the PCB, to have less dead space.
+
 I'll now be getting together everything, and shipping this project!!
 
 ### Time Spent - 6 Hours (16/07/25)
