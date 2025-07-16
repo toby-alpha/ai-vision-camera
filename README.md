@@ -1,2 +1,31 @@
 # ai-vision-camera
 A CM5 Based Camera used for Scene Description
+
+## CAD
+
+## PCB(s)
+
+## Why I made this?
+
+## BOM
+
+|Item                                |Cost AUD|Cost USD|Vendor    |Link                                                |
+|------------------------------------|--------|--------|----------|----------------------------------------------------|
+|Top Case                            |71      |46.15   |JLC-CNC   |Manual Quote - Please Enquire to View               |
+|Bottom Case                         |76      |49.4    |JLC-CNC   |Manual Quote - Please Enquire to View               |
+|LED Diffuser                        |20      |13      |JLC-CNC   |Manual Quote - Please Enquire to View               |
+|Button                              |15      |9.75    |JLC-CNC   |Manual Quote - Please Enquire to View               |
+|                                    |        |        |          |                                                    |
+|Radxa CM5                           |180     |117     |Aliexpress|https://vi.aliexpress.com/item/1005007512045699.html|
+|Radxa 8MP Camera                    |30      |19.5    |Aliexpress|https://vi.aliexpress.com/item/1005006991546297.html|
+|Hot Air Gun (For the back connector)|46      |29.9    |Aliexpress|https://vi.aliexpress.com/item/1005008042972683.html|
+|PCB Components                      |15      |9.75    |Aliexpress|Misc                                                |
+|Misc (Bolts, Camera Cable)          |15      |9.75    |Aliexpress|Misc                                                |
+|                                    |        |        |          |                                                    |
+|Main PCB                            |10      |6.5     |JLCPCB    |Manual Quote - Please Enquire to View               |
+|Main PCBA                           |48      |31.2    |JLCPCB    |Manual Quote - Please Enquire to View               |
+|LED Diffuser PCB                    |5       |3.25    |JLCPCB    |Manual Quote - Please Enquire to View               |
+|Button PCB                          |5       |3.25    |JLCPCB    |Manual Quote - Please Enquire to View               |
+|                                    |        |        |          |                                                    |
+|Total                               |536     |348.4   |          |                                                    |
+|Remaining                           |2.48    |1.6     |          |                                                    |
