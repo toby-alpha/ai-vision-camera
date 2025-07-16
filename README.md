@@ -1,7 +1,15 @@
 # ai-vision-camera
 A CM5 Based Camera used for Scene Description
 
+## What is this?
+
 ## CAD
+
+<img width="1812" height="1188" alt="image" src="https://github.com/user-attachments/assets/d72899cc-e594-4363-9543-5505d5ad097c" />
+
+<img width="998" height="1012" alt="image" src="https://github.com/user-attachments/assets/461ab2da-0ca7-4486-8904-2cc7822af16f" />
+
+<img width="1064" height="1094" alt="image" src="https://github.com/user-attachments/assets/24d01d76-2a44-4284-810e-dd47bc8e268b" />
 
 ## PCB(s)
 
@@ -13,8 +21,6 @@ A CM5 Based Camera used for Scene Description
 
 ### Trigger Button
 <img width="782" height="435" alt="image" src="https://github.com/user-attachments/assets/8fc2fd50-3a03-4cdf-8bbf-6b1f7728c053" />
-
-
 
 
 ## Why I made this?
