@@ -1,6 +1,10 @@
 # AI Vision System
 
-[insert placeholder image when done]
+![image](https://i.ibb.co/mrkwFywr/image.png)
+
+![image](https://i.ibb.co/pvpN1QHM/image.png)
+
+Total Time Spent - 36 Hours
 
 ## The Premise
 
@@ -232,3 +236,31 @@ This also pretty well showcases the button, unfortunately due to the current met
 I'm pretty happy with how things are going so far, so tomorrow it'll just be finalising everything and hopefully shipping this device!!
 
 ### Time Spent - 8 Hours (15/07/25)
+
+## Day 5 - Final Touches
+
+![image](https://i.ibb.co/9kM8rc2J/image.png)
+
+I started off by remaking the WS2812B ring on the front to fit my requirements, and fit in the opening.
+
+![image](https://i.ibb.co/chWSRYNp/image.png)
+
+I then made this polycarb diffuser, which I will have CNC machined, and then beadblasted to create a matte look.
+
+![image](https://i.ibb.co/TBbS9XVM/image.png)
+
+I then finished up by softening the back of the heatsink with fillets and chamfers.
+
+Here are some final photos
+
+![image](https://i.ibb.co/B2mbRC2c/image.png)
+
+![image](https://i.ibb.co/KckRSQf0/image.png)
+
+![image](https://i.ibb.co/bSR7XMq/image.png)
+
+I'm very pleased with how the housing turned out.
+
+I'll now be getting together everything, and shipping this project!!
+
+### Time Spent - 6 Hours (16/07/25)
