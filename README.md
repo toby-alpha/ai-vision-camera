@@ -36,12 +36,12 @@ So.. I really wanted to explore using a local AI alogrithm, that could be effect
 
 |Item                                |Cost AUD|Cost USD|Vendor    |Link                                                |
 |------------------------------------|--------|--------|----------|----------------------------------------------------|
-|Top Case                            |71      |46.15   |JLC-CNC   |Manual Quote - Please Enquire to View               |
+|Top Case                            |Printed Now      |Printed Now  |JLC-CNC   |Manual Quote - Please Enquire to View               |
 |Bottom Case                         |76      |49.4    |JLC-CNC   |Manual Quote - Please Enquire to View               |
 |LED Diffuser                        |20      |13      |JLC-CNC   |Manual Quote - Please Enquire to View               |
 |Button                              |15      |9.75    |JLC-CNC   |Manual Quote - Please Enquire to View               |
 |                                    |        |        |          |                                                    |
-|Radxa CM5                           |180     |117     |Aliexpress|https://vi.aliexpress.com/item/1005007512045699.html|
+|Radxa CM5                           |137 (Will aquire personally, if this is too much)   |90     |Aliexpress|https://vi.aliexpress.com/item/1005007512045699.html|
 |Radxa 8MP Camera                    |30      |19.5    |Aliexpress|https://vi.aliexpress.com/item/1005006991546297.html|
 |Hot Air Gun (For the back connector)|46      |29.9    |Aliexpress|https://vi.aliexpress.com/item/1005008042972683.html|
 |PCB Components                      |15      |9.75    |Aliexpress|Misc                                                |
@@ -52,5 +52,4 @@ So.. I really wanted to explore using a local AI alogrithm, that could be effect
 |LED Diffuser PCB                    |5       |3.25    |JLCPCB    |Manual Quote - Please Enquire to View               |
 |Button PCB                          |5       |3.25    |JLCPCB    |Manual Quote - Please Enquire to View               |
 |                                    |        |        |          |                                                    |
-|Total                               |536     |348.4   |          |                                                    |
-|Remaining                           |2.48    |1.6     |          |                                                    |
+|Total                               |409     |265   |          |                                                    |
