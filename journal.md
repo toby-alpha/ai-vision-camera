@@ -266,3 +266,11 @@ I also shortened the PCB, to have less dead space.
 I'll now be getting together everything, and shipping this project!!
 
 ### Time Spent - 6 Hours (16/07/25)
+
+## Day 6 - Shipping
+
+I spent today compiling everything, and publishing it to the Github.
+
+I also realised I don't think I has justified the CNC casing upto this point.. so here goes nothing. The Radxa CM5 will get pretty hot under operation, and to be honest, based on my experience with the RPi CM5, PLA would melt for this casing. The aluminium serves as a heat-sink, but also adds a really nice polish ontop this product.
+
+### Time Spent - 1 Hour (17/07/25)
