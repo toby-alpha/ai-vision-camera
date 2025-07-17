@@ -3,6 +3,8 @@ A CM5 Based Camera used for Scene Description
 
 ## What is this?
 
+A Radxa CM5 driven camera, capable of providing detailed scene description by taking in an image through a camera and outputing it as sound, through a speaker,  to a visually impared person by using an on-board AI alogrithm. It's then housed in a 6061 Aluminium Case, providing both elegance but also an efficient method of heat disipation. 
+
 ## CAD
 
 <img width="1812" height="1188" alt="image" src="https://github.com/user-attachments/assets/d72899cc-e594-4363-9543-5505d5ad097c" />
@@ -24,7 +26,11 @@ A CM5 Based Camera used for Scene Description
 
 ## Wiring Diagram
 
+<img width="681" height="630" alt="image" src="https://github.com/user-attachments/assets/a47ce834-28e7-4de9-b162-1c718617d74a" />
+
 ## Why I made this?
+
+So.. I really wanted to explore using a local AI alogrithm, that could be effectivly tuned to meet a purpose. Doing reaserch, I really loved the form factor, and power of the CM5, and thus wanted to combine the two together to produce something meaningful. To be meaningful, and fufil a real world purpose, the device takes in an image, then spits out a description through a speaker, to aid a visually impared person. I see this as both being a really effective way to explore and deepen my knowledge in this area, but also create a positive contribution to society. This concept of description can be seen in other solutions, such as Microsoft's SeeingAI. I think my project has been a really meaningful exploration of this technology.
 
 ## BOM
 
