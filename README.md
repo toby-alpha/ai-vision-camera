@@ -22,6 +22,7 @@ A CM5 Based Camera used for Scene Description
 ### Trigger Button
 <img width="782" height="435" alt="image" src="https://github.com/user-attachments/assets/8fc2fd50-3a03-4cdf-8bbf-6b1f7728c053" />
 
+## Wiring Diagram
 
 ## Why I made this?
 
@@ -38,7 +39,7 @@ A CM5 Based Camera used for Scene Description
 |Radxa 8MP Camera                    |30      |19.5    |Aliexpress|https://vi.aliexpress.com/item/1005006991546297.html|
 |Hot Air Gun (For the back connector)|46      |29.9    |Aliexpress|https://vi.aliexpress.com/item/1005008042972683.html|
 |PCB Components                      |15      |9.75    |Aliexpress|Misc                                                |
-|Misc (Bolts, Camera Cable)          |15      |9.75    |Aliexpress|Misc                                                |
+|Misc (Bolts, Camera Cable, Speaker, Vibration Motor)          |15      |9.75    |Aliexpress|Misc                                                |
 |                                    |        |        |          |                                                    |
 |Main PCB                            |10      |6.5     |JLCPCB    |Manual Quote - Please Enquire to View               |
 |Main PCBA                           |48      |31.2    |JLCPCB    |Manual Quote - Please Enquire to View               |
