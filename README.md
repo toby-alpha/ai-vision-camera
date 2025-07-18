@@ -36,10 +36,10 @@ So.. I really wanted to explore using a local AI alogrithm, that could be effect
 
 |Item                                |Cost AUD|Cost USD|Vendor    |Link                                                |
 |------------------------------------|--------|--------|----------|----------------------------------------------------|
-|Top Case                            |Printed Now      |Printed Now  |JLC-CNC   |Manual Quote - Please Enquire to View               |
-|Bottom Case                         |76      |49.4    |JLC-CNC   |Manual Quote - Please Enquire to View               |
-|LED Diffuser                        |20      |13      |JLC-CNC   |Manual Quote - Please Enquire to View               |
-|Button                              |15      |9.75    |JLC-CNC   |Manual Quote - Please Enquire to View               |
+|Top Case                            |76      |49.4  |JLCCNC   |https://jlccnc.com/?from=Toby              |
+|Bottom Case                         |76      |49.4    |JLCCNC   |https://jlccnc.com/?from=Toby               |
+|LED Diffuser                        |20      |13      |JLCCNC   |https://jlccnc.com/?from=Toby               |
+|Button                              |15      |9.75    |JLCCNC   |https://jlccnc.com/?from=Toby               |
 |                                    |        |        |          |                                                    |
 |Radxa CM5                           |137 (Will aquire personally, if this is too much)   |90     |Aliexpress|https://vi.aliexpress.com/item/1005007512045699.html|
 |Radxa 8MP Camera                    |30      |19.5    |Aliexpress|https://vi.aliexpress.com/item/1005006991546297.html|
