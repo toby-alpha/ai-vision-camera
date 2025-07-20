@@ -56,5 +56,10 @@ So.. I really wanted to explore using a local AI alogrithm, that could be effect
 
 ---
 
-### A HUGE thank you so JLCCNC for sponsoring the CNC part of this project. Their assistance in machining will be crucial in helping this project come to life. <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/edffcebc-d051-4e0a-bc67-d61cbe534942" />
+### A HUGE thank you so JLCCNC for sponsoring the CNC part of this project. Their assistance in machining will be crucial in helping this project come to life. 
+
+If you are looking for CNC services, I can not reccomend them more. https://jlccnc.com/?from=Toby
+
+<img width="721" height="190" alt="image" src="https://github.com/user-attachments/assets/aee92aae-d06a-406f-8af3-fa5aa13324e3" />
+
 
