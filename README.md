@@ -53,3 +53,8 @@ So.. I really wanted to explore using a local AI alogrithm, that could be effect
 |Button PCB                          |5       |3.25    |JLCPCB    |Manual Quote - Please Enquire to View               |
 |                                    |        |        |          |                                                    |
 |Total                               |409     |265   |          |                                                    |
+
+---
+
+### A HUGE thank you so JLCCNC for sponsoring the CNC part of this project. Their assistance in machining will be crucial in helping this project come to life. <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/edffcebc-d051-4e0a-bc67-d61cbe534942" />
+
