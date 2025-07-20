@@ -52,7 +52,7 @@ So.. I really wanted to explore using a local AI alogrithm, that could be effect
 |LED Diffuser PCB                    |5       |3.25    |JLCPCB    |Manual Quote - Please Enquire to View               |
 |Button PCB                          |5       |3.25    |JLCPCB    |Manual Quote - Please Enquire to View               |
 |                                    |        |        |          |                                                    |
-|Total                               |409     |265   |          |                                                    |
+|Total                               |477     |311   |          |                                                    |
 
 ---
 
