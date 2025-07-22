@@ -273,4 +273,8 @@ I spent today compiling everything, and publishing it to the Github.
 
 I also realised I don't think I has justified the CNC casing upto this point.. so here goes nothing. The Radxa CM5 will get pretty hot under operation, and to be honest, based on my experience with the RPi CM5, PLA would melt for this casing. The aluminium serves as a heat-sink, but also adds a really nice polish ontop this product.
 
+For the firmware, I want to write it gradually when the device arrives. This will help me learn, stepping up progress steps, rather than just uhh.. vibecoding without the device present to test.
+
 ### Time Spent - 1 Hour (17/07/25)
+
+
