@@ -1,7 +1,12 @@
 # ai-vision-camera
 A CM5 Based Camera used for Scene Description
 
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/ef8d5730-2f30-463a-b86e-6877cc087fc0" />
 
+** As mentioned in the bottom of this ReadMe, JLCCNC  generously sponsored my project, making it possible for me, as a high school student, to create a professional-grade end product. I would truely recommend that you take a look at the services JLCCNC can provide, the photos really show the quality for itself. **
+
+
+ 
 
 ## What is this?
 
