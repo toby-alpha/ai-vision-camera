@@ -1,6 +1,8 @@
 # ai-vision-camera
 A CM5 Based Camera used for Scene Description
 
+
+
 ## What is this?
 
 A Radxa CM5 driven camera, capable of providing detailed scene description by taking in an image through a camera and outputing it as sound, through a speaker,  to a visually impared person by using an on-board AI alogrithm. It's then housed in a 6061 Aluminium Case, providing both elegance but also an efficient method of heat disipation. 
